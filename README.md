@@ -30,9 +30,9 @@ $('.mosaic').ezMosaic();
 ### CSS
 
 The container parent ('squareBox' in this example) sets the dimensions of the mosaic. It is best to set it to a fixed height (or aspect ratio), so that when the images are 
-removed from within the size does not readjust. Most my tests were on square boxes so issues may exist with rectangles that should be relatively easy to fix. Prior to the
-pixel analysis of the images **they must be visible** in the browser in order to get their dimensions, put them on a canvas and analyze them. Adjust their opacity to make
-them invisible
+removed, the size does not readjust. Preliminary tests were performed on square boxes so issues may exist with rectangles. Prior to the pixel analysis of the images, 
+**they must be visible** in order to get their dimensions, put them on a canvas and analyze them. Adjust their opacity to make them 
+invisible.
 
 ```css
 .squareBox {
