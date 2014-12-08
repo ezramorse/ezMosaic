@@ -18,7 +18,7 @@
 </div>
 ```
 
-### jQuery (requires Greensock TimelineMax and TweenMax additionally)
+### jQuery (requires GSAP too)
 
 Use the plugin as follows:
 
@@ -51,7 +51,7 @@ ul.mosaic {
 .moasic img {
    opacity:.01;
 }
-``
+```
 
 ## Arguments
 | Name | Default | Description |
