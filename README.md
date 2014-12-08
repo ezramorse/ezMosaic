@@ -82,14 +82,14 @@ ul.mosaic {
 
 ## Installation
 
-Include [Greensock](https://greensock.com/)
-Include 'ezMosaic.js' in your html file (preferably the footer)
+* Include [Greensock](https://greensock.com/)
+* Include 'ezMosaic.js' in your html file (preferably the footer)
 
 ## Notes
 
 * Requires jQuery.
 * Requires Greensock GSAP.
-* Still in beta form. I just wrote for my site and will support if here is any interest.
+* This is still in beta form. I just wrote for my site and will support if here is any interest.
 * There may be a variety of issues with using images that are not the same size or using bounding parents that have unusual aspect ratios. Fixing most of this is minor (css). I will incorporate any bugfixes for these issues.
 * Have fun
 
