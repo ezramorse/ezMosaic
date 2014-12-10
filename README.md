@@ -48,7 +48,7 @@ ul.mosaic {
    list-style:none;
 }
 
-.moasic img {
+.mosaic img {
    opacity:.01;
 }
 ```
